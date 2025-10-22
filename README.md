@@ -11,6 +11,38 @@ This tool imports work items from a CSV file into Jira using the Jira REST API.
 | Task | Epic | Child of Epic; Non-Development "Bucket" |
 | Sub-task | Story or Task | Child of Story or Task |
 
+> [!NOTE]
+> Remember that the Story type is used for Development activities. The Task type is used for non-development activities.
+> ## Development Activities (Stories) Examples
+>
+> - Feature Implementation
+> - Bug Fixing
+> - Code Refactoring
+> - Performance Optimization
+> - API Development
+> 
+> ## Non-Development Activities (Tasks) Examples
+> 
+> - Project Planning
+>   - Outlining project goals, timelines, and deliverables.
+>   - Example: Creating a project roadmap for the next quarter.
+> 
+> - Documentation Writing
+>   - Writing user guides, technical documentation, and API > references.
+>   - Example: Updating API documentation to reflect recent > changes.
+> 
+> - Requirement Gathering
+>   - Collecting and analyzing client requirements for the > project.
+>   - Example: Conducting interviews with stakeholders to > understand their needs.
+> 
+> - User Training
+>   - Educating users on how to use a new system or feature.
+>   - Example: Conducting workshops to demonstrate the > functionalities of a new CMS.
+> 
+> - Quality Assurance Testing
+>   - Verifying that software functions as intended.
+>   - Example: Performing manual testing to ensure all features > work correctly before release.
+
 ## Prerequisites
 
 1. Python 3.7 or higher
