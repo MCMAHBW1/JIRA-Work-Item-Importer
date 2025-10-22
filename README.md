@@ -20,6 +20,7 @@ This tool imports work items from a CSV file into Jira using the Jira REST API.
 > - Code Refactoring
 > - Performance Optimization
 > - API Development
+> - Creating Automated Test Cases (e.g., Unit, API, or E2E)
 > 
 > ## Non-Development Activities (Tasks) Examples
 > 
@@ -39,9 +40,9 @@ This tool imports work items from a CSV file into Jira using the Jira REST API.
 >   - Educating users on how to use a new system or feature.
 >   - Example: Conducting workshops to demonstrate the > functionalities of a new CMS.
 > 
-> - Quality Assurance Testing
+> - Executing Test Cases
 >   - Verifying that software functions as intended.
->   - Example: Performing manual testing to ensure all features > work correctly before release.
+>   - Example: Performing manual testing or executing automated tests to ensure all features > work correctly before release.
 
 ## Prerequisites
 
