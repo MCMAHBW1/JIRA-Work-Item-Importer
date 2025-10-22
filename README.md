@@ -12,7 +12,7 @@ This tool imports work items from a CSV file into Jira using the Jira REST API.
 | Sub-task | Story or Task | Child of Story or Task |
 
 > [!NOTE]
-> Remember that the Story type is used for Development activities. The Task type is used for non-development activities.
+> Remember that the **Story** type is used for Development activities. The **Task** type is used for non-development activities.
 > ## Development Activities (Stories) Examples
 >
 > - Feature Implementation
