@@ -21,6 +21,7 @@ This tool imports work items from a CSV file into Jira using the Jira REST API.
 > - Performance Optimization
 > - API Development
 > - Creating Automated Test Cases (e.g., Unit, API, or E2E)
+> - Creating Manual Test Cases
 > 
 > ## Non-Development Activities (Tasks) Examples
 > 
